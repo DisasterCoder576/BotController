@@ -6,7 +6,7 @@ This app can be used to control our indoor robot. Just specify target location a
   
   ⭐HOMEPAGE
   
-<img src="https://drive.google.com/uc?export=view&id=1WeFTcqBulu7hwyP3rU1gnwzwDS2FvOfp" style="width: 50px; height: 50px"/>
+<img src="https://drive.google.com/uc?export=view&id=1LB2Y46gFIeri1ga4qWWXLpHPE5ZNPGbp" style="width: 50px; height: 50px"/>
 
    ⭐SELECT TARGET LOCATION
   
@@ -14,5 +14,5 @@ This app can be used to control our indoor robot. Just specify target location a
     
    ⭐SETTINGS
     
-<img src="https://drive.google.com/uc?export=view&id=1rVU5RWVusLPrjg6Kwyd3gwHF76gTOL0V" style="width: 50px; height: 50px"  />
+<img src="https://drive.google.com/uc?export=view&id=17V5umXZGh6saxEsxG5EFH6H-2rU_auK1" style="width: 50px; height: 50px"  />
    
