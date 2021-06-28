@@ -1,6 +1,6 @@
 # BotController
 
-Check out the master branch for codes
+🥇 Check out the MASTER branch for codes
 
 
 
