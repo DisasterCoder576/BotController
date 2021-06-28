@@ -2,7 +2,7 @@
 
 This app can be used to control our indoor robot. Just specify target location and the robot is right in action!
 
-⚛️ App screenshots will load below 
+⚛️ App screenshots will load below (if pictures dont't load, please reload) 
   
   ⭐HOMEPAGE
   
