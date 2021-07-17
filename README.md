@@ -4,7 +4,7 @@ This app can be used to control our indoor robot. Just specify target location a
 
 ⚛️ App screenshots will load below 
 
-🔓 (if pictures dont't load, please reload) 🔓
+🔓 (if pictures dont't load, please reload OR CLICK on the image icon) 🔓
   
   ⭐HOMEPAGE
   
